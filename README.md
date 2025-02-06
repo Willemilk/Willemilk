@@ -5,8 +5,8 @@ Welcome to my GitHub profile
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Willemilk)
 
 ## 🚀 Projects:
-- **[Cool Macro V1.0](https://github.com/Willemilk/Cool-Macro)**: A fun AutoHotkey script that automates tasks with a GUI interface.
-- **[Pizza menu website](https://github.com/rensplop/StonksPizza)**: A project that integrates Entity Framework Core with MySQL for managing F1 teams.
+- **[Cool Macro V1.0](https://github.com/Willemilk/Cool-Macro)**: A fun AutoHotkey script that was made as a joke but I like working on it!
+- **[Pizza menu website](https://github.com/rensplop/StonksPizza)**: A website for ordering pizza using laravel
 
 ## 🔧 Coding Languages I Use:
 - **Languages**: C#, JavaScript, PHP
