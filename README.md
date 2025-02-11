@@ -21,6 +21,7 @@ Welcome to my GitHub profile
 - Flutter
 
 ## 🎱Hobby's and interests
+- Coding
 - Gaming
 - Going to the gym
 - cooking
