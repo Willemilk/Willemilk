@@ -22,6 +22,7 @@ Welcome to my GitHub profile
 
 ## 🎱Hobby's and interests
 - Coding
+- Music
 - Gaming
 - Going to the gym
 - cooking
