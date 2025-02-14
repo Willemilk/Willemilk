@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Willem de Wit
 
 Welcome to my GitHub profile 
-test
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Willemilk)
 
 ## 🚀 Projects:
